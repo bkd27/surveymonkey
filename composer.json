@@ -1,0 +1,21 @@
+{
+    "name": "bkd27/surveymonkey",
+    "version" : "1.0.0",
+    "authors": [
+        {
+            "name": "Bharat Dhaker",
+            "email": "bharatkumardhaker@gmail.com"
+        }
+    ],
+    "license": "GPL-3.0",
+    "require": {
+        "php": ">=5.5",
+        "ext-json": "*",
+        "guzzlehttp/guzzle": "6.*@stable"
+    },
+    "autoload" : {
+        "psr-4" : {
+            "Bkd27\\SurveyMonkey\\" : "src/"
+        }
+    }
+}
