@@ -10,7 +10,7 @@ A simple SurveyMonkey API wrapper for version 3 of their API.
 Add the following to your composer.json under require:
 
     "require": {
-        "bkd27/surveymonkey": "1.0.0"
+        "bkd27/surveymonkey": "1.0.1"
     },
 
 # Usage
