@@ -11,7 +11,7 @@ use Bkd27\SurveyMonkey\Api;
 class Client
 {
     /** @const string */
-    const BASE_ENDPOINT = 'https://api.surveymonkey.net/v3/';
+    const BASE_ENDPOINT = 'https://api.surveymonkey.com/v3/';
 
     /** @var HttpClient */
     protected $httpClient;
